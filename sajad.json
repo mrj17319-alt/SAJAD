@@ -26,6 +26,7 @@
     {
         "device_id": "77ba60f52aa0c34c",
         "key": "AMIR",
-        "expirydate": "15-06-2091",
-        "Allowoffline": false
+        "expirydate": "31-12-2040",
+        "Allowoffline": true
+    }, 
 ]
