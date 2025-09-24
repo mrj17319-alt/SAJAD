@@ -28,5 +28,11 @@
         "key": "AMIR",
         "expirydate": "31-12-2040",
         "Allowoffline": true
-    }, 
+    },
+    {
+        "device_id": "f8c393d522365204",
+        "key": "Ofis",
+        "expirydate": "15-06-2070",
+        "Allowoffline": false
+    },    
 ]
