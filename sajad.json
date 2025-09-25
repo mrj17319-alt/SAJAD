@@ -59,4 +59,10 @@
         "expirydate": "27-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "ea5f03d49ea981b0",
+        "key": "Artin",
+        "expirydate": "27-09-2099",
+        "Allowoffline": false
+    },    
 ]
