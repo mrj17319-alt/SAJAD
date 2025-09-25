@@ -40,5 +40,11 @@
         "key": "SilverX",
         "expirydate": "31-06-2026",
         "Allowoffline": false
-    },    
+    },
+    {
+        "device_id": "c94b18e70c400fe6",
+        "key": "Shah",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
+    },
 ]
