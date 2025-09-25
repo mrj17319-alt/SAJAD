@@ -67,8 +67,8 @@
     },
     {
         "device_id": "970d9bf3acbca8ba",
-        "key": "ANMI",
-        "expirydate": "1-09-2025",
+        "key": "ANMIPanel",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },     
 ]
