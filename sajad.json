@@ -34,5 +34,11 @@
         "key": "Ofis",
         "expirydate": "15-06-2070",
         "Allowoffline": false
+    },
+    {
+        "device_id": "228bdc69881ab9e5",
+        "key": "SilverX",
+        "expirydate": "31-06-2026",
+        "Allowoffline": false
     },    
 ]
