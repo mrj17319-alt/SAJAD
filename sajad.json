@@ -64,5 +64,12 @@
         "key": "Artin",
         "expirydate": "27-09-2099",
         "Allowoffline": false
+    },
+    {
+        "device_id": "970d9bf3acbca8ba",
+        "key": "A.N.M.I",
+        "expirydate": "1-09-2099",
+        "Allowoffline": false
     },    
+    
 ]
