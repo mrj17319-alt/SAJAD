@@ -53,4 +53,10 @@
         "expirydate": "27-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "512ac95b5ab6a513",
+        "key": "Madara",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
+    },
 ]
