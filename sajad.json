@@ -76,5 +76,11 @@
         "key": "MMDx",
         "expirydate": "2-10-2025",
         "Allowoffline": false
-    },    
+    },
+    {
+        "device_id": "7943c9b97bbed4b5",
+        "key": "MmMd",
+        "expirydate": "27-09-2025",
+        "Allowoffline": false
+    },   
 ]
