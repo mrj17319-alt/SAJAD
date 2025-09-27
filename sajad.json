@@ -82,5 +82,11 @@
         "key": "",
         "expirydate": "28-09-2025",
         "Allowoffline": false
-    },   
+    },
+    {
+        "device_id": "e0db484be21722f7",
+        "key": "SAJAD",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },    
 ]
