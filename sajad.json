@@ -42,20 +42,20 @@
         "Allowoffline": false
     },
     {
-        "device_id": "c94b18e70c400fe6",
-        "key": "Shah",
+        "device_id": "7bb7ee2ef9e68d31",
+        "key": "MMDx",
+        "expirydate": "8-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "key": "",
         "expirydate": "27-09-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "27da9a23b74c70ce",
-        "key": "AmIr",
-        "expirydate": "27-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "512ac95b5ab6a513",
-        "key": "Madara",
+        "device_id": "",
+        "key": "",
         "expirydate": "27-09-2025",
         "Allowoffline": false
     },
@@ -85,7 +85,7 @@
     },
     {
         "device_id": "e0db484be21722f7",
-        "key": "SAJAD",
+        "key": "",
         "expirydate": "28-09-2025",
         "Allowoffline": false
     },    
