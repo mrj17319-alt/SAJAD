@@ -44,7 +44,7 @@
     {
         "device_id": "7bb7ee2ef9e68d31",
         "key": "MMDx",
-        "expirydate": "8-09-2025",
+        "expirydate": "4-09-2025",
         "Allowoffline": false
     },
     {
@@ -68,7 +68,7 @@
     {
         "device_id": "970d9bf3acbca8ba",
         "key": "ANMIPanel",
-        "expirydate": "30-09-2025",
+        "expirydate": "1-09-2025",
         "Allowoffline": false
     },
     {
@@ -84,7 +84,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "e0db484be21722f7",
+        "device_id": "",
         "key": "",
         "expirydate": "28-09-2025",
         "Allowoffline": false
