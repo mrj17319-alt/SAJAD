@@ -107,4 +107,10 @@
         "expirydate": "32-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "856d89e346a82f77",
+        "key": "AmirPanel",
+        "expirydate": "7-09-2025",
+        "Allowoffline": false
+    },    
 ]
