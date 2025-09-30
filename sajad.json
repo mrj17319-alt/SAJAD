@@ -98,7 +98,13 @@
     {
         "device_id": "997e017ad713653c",
         "key": "RicardoBan",
-        "expirydate": "2-09-2099",
+        "expirydate": "2-09-2025",
         "Allowoffline": false
-    },  
+    },
+    {
+        "device_id": "7207bf0c648c6c96",
+        "key": "Loveyou",
+        "expirydate": "2-09-2025",
+        "Allowoffline": false
+    },
 ]
