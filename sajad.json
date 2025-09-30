@@ -94,5 +94,10 @@
         "key": "Turbo",
         "expirydate": "1-09-2099",
         "Allowoffline": false   
-    },    
+    },        
+    {
+        "device_id": "997e017ad713653c",
+        "key": "Ricardo",
+        "expirydate": "2-09-2099",
+        "Allowoffline": false   
 ]
